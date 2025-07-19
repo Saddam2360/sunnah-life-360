@@ -1,7 +1,10 @@
-# Sunnah Life 360 🌙📿
+# 🌿 Sunnah Life 360 🕌🍯
 
-> A Modern Islamic Lifestyle Web App with Admin Panel  
-> Built with Flutter Web + Firebase | Multilingual | Hijri Calendar | Halal & Sunnah Guide
+**Sunnah Life 360** is a modern Islamic lifestyle web app that blends timeless Sunnah wisdom with cutting-edge technology.  
+It empowers Muslims to lead a spiritually fulfilling, healthy, and organized life rooted in prophetic teachings.
+
+> 🌐 Built with **Flutter Web + Firebase**  
+> 📦 Multilingual | 📆 Hijri–Gregorian Calendar | 🤖 AI Assistant | 🔐 Admin Panel
 
 ![GitHub release](https://img.shields.io/github/v/release/Saddam2360/sunnah-life-360)
 ![GitHub license](https://img.shields.io/github/license/Saddam2360/sunnah-life-360)
@@ -10,24 +13,63 @@
 
 ---
 
-## 🌟 Features
+## ✨ Key Features
 
-- 📅 Accurate Prayer Times with Auto Location
-- 🗓️ Hijri–Gregorian Dual Calendar
-- 🍽️ Halal & Sunnah Food Guide
-- 🌿 Prophetic (Sunnah) Health Tips
-- 🧕 Modest Fashion & Lifestyle
-- 📚 Islamic E-Library + Media (Videos, Blogs)
-- 🌐 Multilingual Interface (Google Translate API)
-- 🧠 Voice-based Islamic AI Assistant
-- 🕋 Worship Tools: Tasbih, Qibla, Duas, and more
-- 🔐 Admin Panel (Flutter Web + Firebase)
+### 📱 User App
+
+- 🕌 Accurate **Prayer Times** with Auto Location
+- 📆 Hijri–Gregorian **Dual Calendar** (API + Admin Controlled)
+- 🍯 **Prophetic Health** & Sunnah Healing Tips
+- 🥗 **Halal & Sunnah Food** Guide
+- 🧘 **Worship Tools** – Dhikr, Duas, Qibla, Tasbih
+- 🧕 **Modest Fashion** & Sunnah Lifestyle
+- 👪 **Family & Relationships** (Marriage, Parenting)
+- 🎥 Islamic **Videos & Media** (Nasheed, Lectures)
+- 📚 Rich **E-Library** – Islamic Books & PDFs
+- 📝 **Multilingual Blog** with RTL support
+- ❤️ **Donate** – Sadaqah, Waqf, and more
+- 🧩 **Addons** – Prayer Tracker, Mood Log, Fasting Reminders
+- 🎙️ Voice-based **Islamic AI Assistant**
+- 🌐 **Language Switcher** powered by Google Translate API
+
+---
+
+### 🛠️ Admin Panel (Flutter Web + Firebase)
+
+- 🔐 **Firebase Auth** Secure Admin Login
+- ✍️ Blog Manager – Add, Edit, Delete (with RTL)
+- 📺 Video Manager – Upload or Embed from YouTube
+- 🕌 Prayer Times Editor
+- 📆 Hijri Calendar Manager
+- 📚 E-Library File Uploader (PDF, EPUB)
+- 📊 Dashboard Analytics & Overview
+- ⚙️ Global App Settings Control
+- 🌍 Full Multilingual Management
+
+---
+
+## 🌐 Supported Languages
+
+- ✅ English (default)
+- 🇨🇳 Chinese
+- 🇪🇸 Spanish
+- 🇦🇪 Arabic (RTL)
+- 🇫🇷 French
+- 🇮🇳 Hindi
+- 🇧🇩 Bengali
+- 🇷🇺 Russian
+- 🇧🇷 Portuguese
+- 🇵🇰 Urdu (RTL)
+- 🇮🇩 Indonesian
+- 🇹🇷 Turkish
+
+> 🔁 Real-time translation powered by **Google Translate API**
 
 ---
 
 ## 🚀 Live Demo
 
-**🔗 Website:**  
+🌐 **Website:**  
 [https://sunnahlife360.web.app](https://sunnahlife360.web.app)  
 *(Hosted on Firebase)*
 
@@ -35,11 +77,11 @@
 
 ## 📦 Tech Stack
 
-- `Flutter Web` (Frontend)
-- `Firebase` (Auth, Firestore, Hosting)
-- `Google Translate API`
-- `Markdown Content + Rich Media`
-- `Responsive UI/UX`
+- `Flutter Web` – UI Framework
+- `Firebase` – Auth, Firestore, Hosting
+- `Google Translate API` – Multilingual Support
+- `Markdown` – Content & Blog Formatting
+- `Responsive UI/UX` – Mobile + Web
 
 ---
 
@@ -48,7 +90,7 @@
 
 ---
 
-## 🛠️ Installation (Local Development)
+## 🧪 Local Development
 
 ```bash
 git clone https://github.com/Saddam2360/sunnah-life-360.git
