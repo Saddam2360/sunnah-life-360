@@ -57,7 +57,7 @@ flutter pub get
 flutter run -d chrome
 
 🤝 Contributing
-We welcome Islamic developers & designers!
+We welcome Islamic developers and designers!
 Please see CONTRIBUTING.md (coming soon).
 
 📄 License
@@ -72,4 +72,4 @@ For queries, suggestions, or collaboration:
 📧 saddam.dev360@gmail.com  
 🌐 [Saddam2360 GitHub](https://github.com/Saddam2360)
 
-> *"Revive the Sunnah, live with purpose." – Sunnah Life 360*
+"Revive the Sunnah, live with purpose." – Sunnah Life 360*
