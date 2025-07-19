@@ -112,6 +112,15 @@ This project is licensed under the MIT License – see LICENSE details.
 💖 Support / Donations
 If this project benefits you or your community, consider donating or spreading the word 🌍
 
+🤝 Support & Sponsorship
+If this project benefits you, consider:
+
+⭐ Starring the repo
+
+🗣️ Sharing with others
+
+💰 Donating (coming soon)
+
 ## 📬 Contact
 
 For queries, suggestions, or collaboration:  
