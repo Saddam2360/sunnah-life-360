@@ -126,14 +126,14 @@ Name: Saddam Hosain
 Email: healthservices620@yahoo.com
 Account ID: 322049621
 
-Your support helps us continue building open-source Islamic tools for the Ummah.
+Your support helps us building open-source Islamic tools the Ummah.
 
 ⭐ Also consider:
 Starring the repo
 
 Sharing with others
 
-Contributing or sponsoring in future (inshaAllah)
+Contributing or sponsoring future (inshaAllah)
 
 ## 📬 Contact
 
