@@ -137,19 +137,19 @@ We welcome all kinds of contributions
 
 Please read the CONTRIBUTING.md before submitting a pull request.
 
-📄 License
-This project is licensed under the MIT License – see LICENSE details.
-
 ❤️ Support and Donations
 If this project benefits you or your community, please consider supporting the developer:
 
-📲 bKash (Bangladesh)
-Number: 01332615525
-Name: Saddam Hosain
+📬 Contact
+📧 Email: healthservices620@yahoo.com
 
-💳 Neteller
-Email: healthservices620@yahoo.com
-Account ID: 322049621
+💬 Telegram: Coming Soon
+
+💰 Donate via:
+
+bKash: 01332615525
+
+Neteller: healthservices620@yahoo.com (ID: 322049621)
 
 Your support helps us building open-source Islamic tools the Ummah.
 
@@ -160,6 +160,9 @@ Sharing with others
 
 Contributing or sponsoring future (inshaAllah)
 
+📄 License
+This project is licensed under the MIT License – see LICENSE details.
+
 🙏 Acknowledgements
 Flutter and Firebase the amazing tech stack
 
@@ -169,11 +172,3 @@ The global Muslim Ummah the inspiration 🌍
 May Allah accept this effort and make it sadaqah jariyah everyone involved.
 
 🌟 Don't forget to Star this repo and Share with others if you find it useful!
-
-## 📬 Contact
-
-For queries, suggestions, or collaboration:  
-📧 saddam.dev360@gmail.com  
-🌐 [Saddam2360 GitHub](https://github.com/Saddam2360)
-
-"Revive the Sunnah, live with purpose." – Sunnah Life 360
