@@ -2,7 +2,7 @@
 name: "\U0001F41B Bug Report"
 about: Report a problem with the app
 title: "[Bug] "
-labels: bug, documentation
+labels: bug, documentation, test
 assignees: Saddam2360
 
 ---
