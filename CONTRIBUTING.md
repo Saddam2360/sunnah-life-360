@@ -9,40 +9,44 @@ We welcome contributions from developers, designers, writers, and community memb
 ### 🧑‍💻 Ways to Contribute
 
 1. **Code Contributions**
-
-   - Fix bugs or add new features  
-   - Improve UI/UX (especially for RTL/multilingual)  
-   - Optimize performance  
+   - Fix bugs or add new features
+   - Improve UI/UX (especially for RTL/multilingual)
+   - Optimize performance
 
 2. **Design Contributions**
-
-   - Submit icon ideas  
-   - Create illustrations for health, food, prayer, etc.  
+   - Submit icon ideas
+   - Create illustrations for health, food, prayer, etc.
 
 3. **Content Contributions**
-
-   - Submit Sunnah-based tips, hadiths, or verified Islamic content  
-   - Translate into different languages  
+   - Submit Sunnah-based tips, hadiths, or verified Islamic content
+   - Translate into different languages
 
 4. **Report Bugs / Suggest Features**
-
-   - Open an issue describing the bug or idea  
-   - Label it accordingly (bug/feature/enhancement)  
+   - Open an issue describing the bug or idea
+   - Label it accordingly (bug/feature/enhancement)
 
 ---
 
 ### 🛠️ Development Setup
 
+To get started locally, run the following in your terminal:
+
 ```bash
+# Clone the repository
 git clone https://github.com/Saddam2360/sunnah-life-360.git
 cd sunnah-life-360
+
+# Install dependencies
 flutter pub get
+
+# Run the project in Chrome
 flutter run -d chrome
+
 flutter build web
 firebase deploy
 
 🧾 Guidelines
-Follow the coding conventions already used the project
+Follow the coding conventions already used in the project
 
 Write clear, concise commit messages
 
@@ -57,6 +61,6 @@ Email: healthservices620@yahoo.com
 
 Telegram: Coming Soon
 
-We appreciate your efforts — may Allah reward you 🌙
+We appreciate your efforts — may Allah reward you! 🌙
 
 ---
