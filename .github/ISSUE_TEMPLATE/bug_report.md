@@ -1,9 +1,10 @@
 ---
-name: 🐛 Bug Report
+name: "\U0001F41B Bug Report"
 about: Report a problem with the app
 title: "[Bug] "
-labels: bug
-assignees: ''
+labels: bug, documentation
+assignees: Saddam2360
+
 ---
 
 ### 📝 Description
