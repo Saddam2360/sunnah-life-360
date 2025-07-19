@@ -42,7 +42,7 @@ flutter build web
 firebase deploy
 
 🧾 Guidelines
-Follow the coding conventions already used in the project
+Follow the coding conventions already used the project
 
 Write clear, concise commit messages
 
@@ -57,6 +57,6 @@ Email: healthservices620@yahoo.com
 
 Telegram: Coming Soon
 
-We appreciate your efforts — may Allah reward you! 🌙
+We appreciate your efforts — may Allah reward you 🌙
 
 ---
