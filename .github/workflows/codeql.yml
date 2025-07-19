@@ -4,33 +4,37 @@ on:
   push:
     branches: [ "main" ]
   pull_request:
+    # Scans PRs into main
     branches: [ "main" ]
   schedule:
-    - cron: '0 0 * * 0'
+    - cron: '0 0 * * 0' # weekly scan on Sunday
 
 jobs:
   analyze:
-    name: Analyze
+    name: Analyze (dart)
     runs-on: ubuntu-latest
 
     permissions:
+      security-events: write
       actions: read
       contents: read
-      security-events: write
 
     strategy:
       fail-fast: false
       matrix:
-        language: [ 'javascript', 'dart' ]
+        language: [ 'dart' ]
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      - name: Initialize CodeQL
-        uses: github/codeql-action/init@v2
-        with:
-          languages: ${{ matrix.language }}
+    - name: Initialize CodeQL
+      uses: github/codeql-action/init@v3
+      with:
+        languages: ${{ matrix.language }}
 
-      - name: Perform CodeQL Analysis
-        uses: github/codeql-action/analyze@v2
+    - name: Autobuild
+      uses: github/codeql-action/autobuild@v3
+
+    - name: Perform CodeQL Analysis
+      uses: github/codeql-action/analyze@v3
