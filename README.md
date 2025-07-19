@@ -56,6 +56,10 @@ cd sunnah-life-360
 flutter pub get
 flutter run -d chrome
 
+### 🚀 Deployment
+This app is deployed with [Firebase Hosting](https://firebase.google.com/products/hosting)  
+To deploy manually, use: `firebase deploy`
+
 🤝 Contributing
 We welcome Islamic developers and designers
 Please see CONTRIBUTING.md (coming soon).
