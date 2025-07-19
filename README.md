@@ -112,7 +112,7 @@ This project is licensed under the MIT License – see LICENSE details.
 💖 Support / Donations
 If this project benefits you or your community, consider donating or spreading the word 🌍
 
-🤝 Support & Sponsorship
+🤝 Support and Sponsorship
 If this project benefits you, consider:
 
 ⭐ Starring the repo
