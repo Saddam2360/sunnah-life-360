@@ -102,6 +102,12 @@ flutter run -d chrome
 This app is deployed with [Firebase Hosting](https://firebase.google.com/products/hosting)  
 To deploy manually, use: `firebase deploy`
 
+git clone https://github.com/Saddam2360/sunnah-life-360.git
+cd sunnah-life-360
+flutter pub get
+flutter build web
+firebase deploy
+
 🤝 Contributing
 We welcome Islamic developers and designers
 Please see CONTRIBUTING.md (coming soon).
@@ -109,17 +115,25 @@ Please see CONTRIBUTING.md (coming soon).
 📄 License
 This project is licensed under the MIT License – see LICENSE details.
 
-💖 Support / Donations
-If this project benefits you or your community, consider donating or spreading the word 🌍
+❤️ Support and Donations
+If this project benefits you or your community, please consider supporting the developer:
 
-🤝 Support and Sponsorship
-If this project benefits you, consider:
+📲 bKash (Bangladesh)
+Number: 01332615525
+Name: Saddam Hosain
 
-⭐ Starring the repo
+💳 Neteller
+Email: healthservices620@yahoo.com
+Account ID: 322049621
 
-🗣️ Sharing with others
+Your support helps us continue building open-source Islamic tools for the Ummah.
 
-💰 Donating (coming soon)
+⭐ Also consider:
+Starring the repo
+
+Sharing with others
+
+Contributing or sponsoring in future (inshaAllah)
 
 ## 📬 Contact
 
