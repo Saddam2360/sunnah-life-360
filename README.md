@@ -57,11 +57,11 @@ flutter pub get
 flutter run -d chrome
 
 🤝 Contributing
-We welcome Islamic developers and designers!
+We welcome Islamic developers and designers
 Please see CONTRIBUTING.md (coming soon).
 
 📄 License
-This project is licensed under the MIT License – see LICENSE for details.
+This project is licensed under the MIT License – see LICENSE details.
 
 💖 Support / Donations
 If this project benefits you or your community, consider donating or spreading the word 🌍
