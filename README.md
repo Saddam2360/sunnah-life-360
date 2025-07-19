@@ -125,8 +125,17 @@ flutter build web
 firebase deploy
 
 🤝 Contributing
-We welcome Islamic developers and designers
-Please see CONTRIBUTING.md (coming soon).
+We welcome all kinds of contributions!
+
+🛠️ Developers — fix bugs, add features, improve performance
+
+🎨 Designers — help with icons, illustrations, and UI polish
+
+🌐 Translators — help localize the app in more languages
+
+📝 Writers — submit verified Islamic content (tips, hadiths, etc.)
+
+Please read the CONTRIBUTING.md before submitting a pull request.
 
 📄 License
 This project is licensed under the MIT License – see LICENSE details.
@@ -150,6 +159,16 @@ Starring the repo
 Sharing with others
 
 Contributing or sponsoring future (inshaAllah)
+
+🙏 Acknowledgements
+Flutter & Firebase for the amazing tech stack
+
+All contributors and translators
+
+The global Muslim Ummah for the inspiration 🌍
+May Allah accept this effort and make it sadaqah jariyah for everyone involved.
+
+🌟 Don't forget to Star this repo and Share with others if you find it useful!
 
 ## 📬 Contact
 
