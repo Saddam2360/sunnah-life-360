@@ -6,10 +6,20 @@ It empowers Muslims to lead a spiritually fulfilling, healthy, and organized lif
 > 🌐 Built with **Flutter Web + Firebase**  
 > 📦 Multilingual | 📆 Hijri–Gregorian Calendar | 🤖 AI Assistant | 🔐 Admin Panel
 
-![GitHub release](https://img.shields.io/github/v/release/Saddam2360/sunnah-life-360)
-![GitHub license](https://img.shields.io/github/license/Saddam2360/sunnah-life-360)
-![GitHub issues](https://img.shields.io/github/issues/Saddam2360/sunnah-life-360)
-![GitHub stars](https://img.shields.io/github/stars/Saddam2360/sunnah-life-360?style=social)
+<p align="center">
+  <a href="https://github.com/Saddam2360/sunnah-life-360/releases">
+    <img src="https://img.shields.io/github/v/release/Saddam2360/sunnah-life-360" alt="GitHub release">
+  </a>
+  <a href="https://github.com/Saddam2360/sunnah-life-360/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Saddam2360/sunnah-life-360" alt="GitHub license">
+  </a>
+  <a href="https://github.com/Saddam2360/sunnah-life-360/issues">
+    <img src="https://img.shields.io/github/issues/Saddam2360/sunnah-life-360" alt="GitHub issues">
+  </a>
+  <a href="https://github.com/Saddam2360/sunnah-life-360/stargazers">
+    <img src="https://img.shields.io/github/stars/Saddam2360/sunnah-life-360?style=social" alt="GitHub stars">
+  </a>
+</p>
 
 ---
 
@@ -77,11 +87,11 @@ It empowers Muslims to lead a spiritually fulfilling, healthy, and organized lif
 
 ## 📦 Tech Stack
 
-- `Flutter Web` – UI Framework
-- `Firebase` – Auth, Firestore, Hosting
-- `Google Translate API` – Multilingual Support
-- `Markdown` – Content & Blog Formatting
-- `Responsive UI/UX` – Mobile + Web
+- `Flutter Web` – UI Framework  
+- `Firebase` – Auth, Firestore, Hosting  
+- `Google Translate API` – Multilingual Support  
+- `Markdown` – Content & Blog Formatting  
+- `Responsive UI/UX` – Mobile + Web  
 
 ---
 
@@ -89,6 +99,12 @@ It empowers Muslims to lead a spiritually fulfilling, healthy, and organized lif
 
 
 ---
+
+✍️ Contributions, feedback, and stars are welcome!  
+**May Allah bless this effort and make it beneficial for the Ummah. Ameen.**
+
+---
+
 
 ## 🧪 Local Development
 
