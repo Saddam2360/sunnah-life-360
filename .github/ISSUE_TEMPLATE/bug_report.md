@@ -4,23 +4,22 @@ about: Report a problem with the app
 title: "[Bug] "
 labels: bug
 assignees: ''
-
 ---
 
-### Description
+### 📝 Description
 A clear and concise description of the problem.
 
-### Steps to Reproduce
+### 🔁 Steps to Reproduce
 1. Go to '...'
 2. Click on '...'
 3. See error
 
-### Expected Behavior
+### ✅ Expected Behavior
 What did you expect to happen?
 
-### Screenshots (if applicable)
+### 📸 Screenshots (if applicable)
 
-### Environment
+### 💻 Environment
 - OS:
 - Browser:
 - Flutter Version:
