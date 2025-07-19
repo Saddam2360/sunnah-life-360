@@ -125,13 +125,13 @@ flutter build web
 firebase deploy
 
 🤝 Contributing
-We welcome all kinds of contributions!
+We welcome all kinds of contributions
 
 🛠️ Developers — fix bugs, add features, improve performance
 
 🎨 Designers — help with icons, illustrations, and UI polish
 
-🌐 Translators — help localize the app in more languages
+🌐 Translators — help localize the app more languages
 
 📝 Writers — submit verified Islamic content (tips, hadiths, etc.)
 
@@ -161,12 +161,12 @@ Sharing with others
 Contributing or sponsoring future (inshaAllah)
 
 🙏 Acknowledgements
-Flutter & Firebase for the amazing tech stack
+Flutter and Firebase the amazing tech stack
 
 All contributors and translators
 
-The global Muslim Ummah for the inspiration 🌍
-May Allah accept this effort and make it sadaqah jariyah for everyone involved.
+The global Muslim Ummah the inspiration 🌍
+May Allah accept this effort and make it sadaqah jariyah everyone involved.
 
 🌟 Don't forget to Star this repo and Share with others if you find it useful!
 
