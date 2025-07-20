@@ -135,17 +135,17 @@ bKash: 01332615525
 
 Neteller: healthservices620@yahoo.com (ID: 322049621)
 
-Your support helps us build open-source Islamic tools for the Ummah.
+Your support helps us build open-source Islamic tools the Ummah.
 
 ⭐ Also consider
 Starring the repo 🌟
 
 Sharing with others 📢
 
-Contributing or sponsoring in the future (inshaAllah)
+Contributing or sponsoring the future (inshaAllah)
 
 📄 License
-This project is licensed under the MIT License – see LICENSE file for details.
+This project is licensed under the MIT License – see LICENSE file details.
 
 🙏 Acknowledgements
 Flutter and Firebase – the amazing tech stack
@@ -154,7 +154,7 @@ All contributors and translators
 
 The global Muslim Ummah – the inspiration 🌍
 
-May Allah accept this effort and make it sadaqah jariyah for everyone involved.
+May Allah accept this effort and make it sadaqah jariyah everyone involved.
 
 🌟 Don't forget to star this repo and share with others if you find it useful!
 
