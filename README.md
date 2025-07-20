@@ -6,20 +6,10 @@ It empowers Muslims to lead a spiritually fulfilling, healthy, and organized lif
 > 🌐 Built with **Flutter Web + Firebase**  
 > 📦 Multilingual | 📆 Hijri–Gregorian Calendar | 🤖 AI Assistant | 🔐 Admin Panel
 
-<p align="center">
-  <a href="https://github.com/Saddam2360/sunnah-life-360/releases">
-    <img src="https://img.shields.io/github/v/release/Saddam2360/sunnah-life-360" alt="GitHub release">
-  </a>
-  <a href="https://github.com/Saddam2360/sunnah-life-360/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Saddam2360/sunnah-life-360" alt="GitHub license">
-  </a>
-  <a href="https://github.com/Saddam2360/sunnah-life-360/issues">
-    <img src="https://img.shields.io/github/issues/Saddam2360/sunnah-life-360" alt="GitHub issues">
-  </a>
-  <a href="https://github.com/Saddam2360/sunnah-life-360/stargazers">
-    <img src="https://img.shields.io/github/stars/Saddam2360/sunnah-life-360?style=social" alt="GitHub stars">
-  </a>
-</p>
+[![GitHub release](https://img.shields.io/github/v/release/Saddam2360/sunnah-life-360)](https://github.com/Saddam2360/sunnah-life-360/releases)
+[![GitHub license](https://img.shields.io/github/license/Saddam2360/sunnah-life-360)](https://github.com/Saddam2360/sunnah-life-360/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Saddam2360/sunnah-life-360)](https://github.com/Saddam2360/sunnah-life-360/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Saddam2360/sunnah-life-360?style=social)](https://github.com/Saddam2360/sunnah-life-360/stargazers)
 
 ---
 
@@ -73,30 +63,30 @@ It empowers Muslims to lead a spiritually fulfilling, healthy, and organized lif
 - 🇮🇩 Indonesian
 - 🇹🇷 Turkish
 
-> 🔁 Real-time translation powered by **Google Translate API**
+🔁 Real-time translation powered by **Google Translate API**
 
 ---
 
 ## 🚀 Live Demo
 
 🌐 **Website:**  
-[https://sunnahlife360.web.app](https://sunnahlife360.web.app)  
-*(Hosted on Firebase)*
+[https://sunnahlife360.web.app](https://sunnahlife360.web.app) *(Hosted on Firebase)*
 
 ---
 
 ## 📦 Tech Stack
 
-- `Flutter Web` – UI Framework  
-- `Firebase` – Auth, Firestore, Hosting  
-- `Google Translate API` – Multilingual Support  
-- `Markdown` – Content & Blog Formatting  
-- `Responsive UI/UX` – Mobile + Web  
+- Flutter Web – UI Framework  
+- Firebase – Auth, Firestore, Hosting  
+- Google Translate API – Multilingual Support  
+- Markdown – Content & Blog Formatting  
+- Responsive UI/UX – Mobile + Web  
 
 ---
 
 ## 📁 Folder Structure
 
+*(Add your folder structure here if needed)*
 
 ---
 
@@ -104,7 +94,6 @@ It empowers Muslims to lead a spiritually fulfilling, healthy, and organized lif
 **May Allah bless this effort and make it beneficial for the Ummah. Ameen.**
 
 ---
-
 
 ## 🧪 Local Development
 
@@ -114,24 +103,21 @@ cd sunnah-life-360
 flutter pub get
 flutter run -d chrome
 
-### 🚀 Deployment
-This app is deployed with [Firebase Hosting](https://firebase.google.com/products/hosting)  
-To deploy manually, use: `firebase deploy`
-
-git clone https://github.com/Saddam2360/sunnah-life-360.git
-cd sunnah-life-360
+🚀 Deployment
+This app is deployed with Firebase Hosting
+To deploy manually:
 flutter pub get
 flutter build web
 firebase deploy
 
 🤝 Contributing
-We welcome all kinds of contributions
+We welcome all kinds of contributions:
 
 🛠️ Developers — fix bugs, add features, improve performance
 
 🎨 Designers — help with icons, illustrations, and UI polish
 
-🌐 Translators — help localize the app more languages
+🌐 Translators — help localize the app to more languages
 
 📝 Writers — submit verified Islamic content (tips, hadiths, etc.)
 
@@ -140,9 +126,7 @@ Please read the CONTRIBUTING.md before submitting a pull request.
 ❤️ Support and Donations
 If this project benefits you or your community, please consider supporting the developer:
 
-📬 Contact
 📧 Email: healthservices620@yahoo.com
-
 💬 Telegram: Coming Soon
 
 💰 Donate via:
@@ -151,24 +135,27 @@ bKash: 01332615525
 
 Neteller: healthservices620@yahoo.com (ID: 322049621)
 
-Your support helps us building open-source Islamic tools the Ummah.
+Your support helps us build open-source Islamic tools for the Ummah.
 
-⭐ Also consider:
-Starring the repo
+⭐ Also consider
+Starring the repo 🌟
 
-Sharing with others
+Sharing with others 📢
 
-Contributing or sponsoring future (inshaAllah)
+Contributing or sponsoring in the future (inshaAllah)
 
 📄 License
-This project is licensed under the MIT License – see LICENSE details.
+This project is licensed under the MIT License – see LICENSE file for details.
 
 🙏 Acknowledgements
-Flutter and Firebase the amazing tech stack
+Flutter and Firebase – the amazing tech stack
 
 All contributors and translators
 
-The global Muslim Ummah the inspiration 🌍
-May Allah accept this effort and make it sadaqah jariyah everyone involved.
+The global Muslim Ummah – the inspiration 🌍
 
-🌟 Don't forget to Star this repo and Share with others if you find it useful!
+May Allah accept this effort and make it sadaqah jariyah for everyone involved.
+
+🌟 Don't forget to star this repo and share with others if you find it useful!
+
+---
